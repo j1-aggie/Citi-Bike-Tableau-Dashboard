@@ -83,8 +83,8 @@ Below, I have attached static views of my two dashboards.  I have attached the l
 
 [Click here to view complted dashboard](https://public.tableau.com/profile/jeremy.m.jones#!/vizhome/CitiBikeDashboard-Homework20/Dashboard1?publish=yes)
 
-![Dashboard 1](https://user-images.githubusercontent.com/66078772/103143170-e2fb5580-46d6-11eb-9007-5385bd9cbc5b.PNG)
-![Dashboard 2](https://user-images.githubusercontent.com/66078772/103143174-edb5ea80-46d6-11eb-8e24-840bcfba8e6d.PNG)
+![Dashboard 1](https://user-images.githubusercontent.com/66078772/103683714-29ab4400-4f50-11eb-8ba8-a371af889d64.PNG)
+![Dashboard 2](https://user-images.githubusercontent.com/66078772/103683722-2ca63480-4f50-11eb-9e8e-23155716f5fd.PNG)
 
 
 

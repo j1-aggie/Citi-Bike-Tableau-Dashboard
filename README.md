@@ -14,7 +14,8 @@ in order to generate business insights in terms of visulize the peak time in bot
 
 
 
-![start station map](https://user-images.githubusercontent.com/66078772/103143190-0920f580-46d7-11eb-9d37-6b96dcf3beaa.PNG)![End Station Map](https://user-images.githubusercontent.com/66078772/103143178-f7d7e900-46d6-11eb-81a4-05da707901cb.PNG)
+![start station map](https://user-images.githubusercontent.com/66078772/103683780-40ea3180-4f50-11eb-8f0d-47f8aab19efb.PNG)
+![End Station Map](https://user-images.githubusercontent.com/66078772/103683767-3cbe1400-4f50-11eb-81ac-72fe31aec8d1.PNG)
 ![Top ten end stations](https://user-images.githubusercontent.com/66078772/103143159-d971ed80-46d6-11eb-8764-6767936c9977.PNG)
 ![Top stations](https://user-images.githubusercontent.com/66078772/103143196-1211c700-46d7-11eb-9892-ddc2aad31a2c.PNG)
 ![top ten bottom stations](https://user-images.githubusercontent.com/66078772/103143197-1342f400-46d7-11eb-8eda-c7029fe7ccff.PNG)![bottom end stations](https://user-images.githubusercontent.com/66078772/103143168-e1ca2880-46d6-11eb-8dc4-c0058b57786d.PNG)
